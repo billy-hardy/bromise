@@ -1,0 +1,16 @@
+{
+  "name": "bromise",
+  "version": "0.1.0",
+  "description": "promise implementation for bros",
+  "main": "index.js",
+  "scripts": {
+    "test": "promises-aplus-tests test/bromise"
+  },
+  "author": {
+    "name": "Billy Hardy"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "promises-aplus-tests": "^2.1.2"
+  }
+}
